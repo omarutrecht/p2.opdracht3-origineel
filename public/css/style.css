@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana;
+}
+
+h3{
+    color: blue;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Arial, sans-serif;
+  }
+  
+  thead {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  button{
+    background-color: red;
+  }
+ 
+
+
